@@ -6,7 +6,7 @@ public class FunctionsInJava {
 	// void means this function cannot return any value
 	
 	public void test() {   //0 parameter
-//		System.out.println("test method");
+		System.out.println("test method - git ");
 	}
 	
 	//2. no input but return
